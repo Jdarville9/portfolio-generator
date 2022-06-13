@@ -1,6 +1,6 @@
 const generatePage = (name, github) => {
     return `
-    <!DOCTYPE>
+    <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
